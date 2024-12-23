@@ -1,0 +1,1 @@
+A method uses parameters. A caller passes arguments.
